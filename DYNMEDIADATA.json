@@ -1,0 +1,36 @@
+	{
+		"DYNDATA": [
+			{
+				"id": "123142145awse",
+				"Category name": "mapping pixel star 100%",
+				"is category": false,
+				"mediaType": "video",
+				"mapping": "complete",
+				"sequence timer": 0,
+				"media data": [
+					{
+						"title": "pixel star sample",
+						"url": "www.youtube.com"
+					}
+				]
+			},
+			{
+				"id": "1q31asd234asdadasd",
+				"Category name": "sample ratios",
+				"is category": true,
+				"mediaType": "static images",
+				"mapping": "partial",
+				"sequence timer": 0,
+				"media data": [
+					{
+						"title": "01 ratio 169",
+						"url": "www.asdacdasd.com"
+					},
+					{
+						"title": "02 ratio 234",
+						"url": "www.asdklhash.com"
+					}
+				]
+			}
+		]
+	}
