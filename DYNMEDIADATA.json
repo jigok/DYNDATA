@@ -133,7 +133,9 @@
 					{
 						"title": "Transition 01",
 						"url": "www.asdacdasd.com"
-					},
+					}
+                ]
+            },
 			{
 				"id": "1q31asd234asdadasd",
 				"Category name": "Pixel Star Aspect Ratio Video",
@@ -151,7 +153,9 @@
 					},{
 						"title": "TSX Scale 50%",
 						"url": "www.asdacdasd.com"
-					},
+					}
+                ]
+            },
 				{
 				"id": "1q31asd234asdadasd",
 				"Category name": "Static Samples",
@@ -166,7 +170,7 @@
 					},{
 						"title": "Sample 2",
 						"url": "www.asdacdasd.com"
-					},		
+					}		
 				]
 			}
 		]
