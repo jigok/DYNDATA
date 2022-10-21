@@ -2,34 +2,171 @@
 		"DYNDATA": [
 			{
 				"id": "123142145awse",
-				"Category name": "mapping pixel star 100%",
-				"is category": false,
-				"mediaType": "video",
-				"mapping": "complete",
+				"Category name": pixel star aspect ratios ",
+				"is category": true,
+				"mediaType": "static",
+				"mapping": "partial",
 				"sequence timer": 0,
 				"media data": [
 					{
-						"title": "pixel star sample",
+						"title": "Ratio 1:1 fill",
+						"url": "www.youtube.com"
+					},{
+						"title": "Ratio 1:1 tiled",
+						"url": "www.youtube.com"
+					},{
+						"title": "Ratio 16:9 Vertical",
+						"url": "www.youtube.com"
+					},{
+						"title": "Ratio 16:9 Vertical fill",
+						"url": "www.youtube.com"
+					},{
+						"title": "Ratio 16:9 fit to Curve",
+						"url": "www.youtube.com"
+					},{
+						"title": "Ratio 16:9 fit 1/2 Curve",
+						"url": "www.youtube.com"
+					},{
+						"title": "Ratio 16:10 fit to Curve",
+						"url": "www.youtube.com"
+					},{
+						"title": "Ratio 16:10 fit 1/2 Curve",
+						"url": "www.youtube.com"
+					},{
+						"title": "Ratio 2:1 fit to Curve",
+						"url": "www.youtube.com"
+					},{
+						"title": "Ratio 2:1 fit 1/2 Curve",
+						"url": "www.youtube.com"
+					},{
+						"title": "Ratio 1.91:1 fit to Curve",
+						"url": "www.youtube.com"
+					},{
+						"title": "Ratio 1.91:1 fit 1/2 Curve",
+						"url": "www.youtube.com"
+					},{
+						"title": "Ratio 1.85:1 fit to Curve",
+						"url": "www.youtube.com"
+					},{
+						"title": "Ratio 1.85:1 fill",
+						"url": "www.youtube.com"
+					},{
+						"title": "Ratio 1.85:1 fit 1/2 Curve",
+						"url": "www.youtube.com"
+					},{
+						"title": "Ratio 2.39:1 fit to Curve",
+						"url": "www.youtube.com"
+					},{
+						"title": "Ratio 2.39:1 fit 1/2 Curve",
+						"url": "www.youtube.com"
+					},{
+						"title": "Ratio 2.76:1 fit to Curve",
+						"url": "www.youtube.com"
+					},{
+						"title": "Ratio 2.76:1 fit 1/2 Curve",
+						"url": "www.youtube.com"
+					},{
+						"title": "Ratio 1.37:1 fit to Curve",
+						"url": "www.youtube.com"
+					},{
+						"title": "Ratio 1.37:1 fit 1/2 Curve",
+						"url": "www.youtube.com"
+					},{
+						"title": "Ratio 2.95:1 fit to Curve",
+						"url": "www.youtube.com"
+					},{
+						"title": "Ratio 2.95:1 fit 1/2 Curve",
+						"url": "www.youtube.com"
+					},{
+						"title": "Ratio 2.35:1 fit to Curve",
+						"url": "www.youtube.com"
+					},{
+						"title": "Ratio 2.35:1 fit 1/2 Curve",
+						"url": "www.youtube.com"
+					},{
+						"title": "Ratio 2.59:1 fill",
+						"url": "www.youtube.com"
+					},{
+						"title": "Ratio 1.37:1 fill",
+						"url": "www.youtube.com"
+					},{
+						"title": "Ratio 2.76:1 fill",
+						"url": "www.youtube.com"
+					},{
+						"title": "Ratio 2.39:1 fill",
+						"url": "www.youtube.com"
+					},{
+						"title": "Ratio 1.9:1 fill",
+						"url": "www.youtube.com"
+					},{
+						"title": "Ratio 2:1 fill",
+						"url": "www.youtube.com"
+					},{
+						"title": "Ratio 16:10 fill",
+						"url": "www.youtube.com"
+					},{
+						"title": "Ratio 4:3 fit to Curve",
+						"url": "www.youtube.com"
+					},{
+						"title": "Ratio 4:3 fit 1/2 Curve",
+						"url": "www.youtube.com"
+					},{
+						"title": "Ratio 4:3 fill Vertically",
+						"url": "www.youtube.com"
+					},{
+						"title": "Ratio 16:9 fill Horizontally",
+						"url": "www.youtube.com"
+					},{
+						"title": "Ratio 16:9 fill Vertically",
 						"url": "www.youtube.com"
 					}
 				]
 			},
 			{
 				"id": "1q31asd234asdadasd",
-				"Category name": "sample ratios",
-				"is category": true,
-				"mediaType": "static images",
+				"Category name": "Pixel Star Sample Transition",
+				"is category": false,
+				"mediaType": "video",
 				"mapping": "partial",
 				"sequence timer": 0,
 				"media data": [
 					{
-						"title": "01 ratio 169",
+						"title": "Transition 01",
 						"url": "www.asdacdasd.com"
 					},
+			{
+				"id": "1q31asd234asdadasd",
+				"Category name": "Pixel Star Aspect Ratio Video",
+				"is category": true,
+				"mediaType": "video",
+				"mapping": "complete",
+				"sequence timer": 0,
+				"media data": [
 					{
-						"title": "02 ratio 234",
-						"url": "www.asdklhash.com"
-					}
+						"title": "TSX Scale 100%",
+						"url": "www.asdacdasd.com"
+					},{
+						"title": "TSX Scale 75%",
+						"url": "www.asdacdasd.com"
+					},{
+						"title": "TSX Scale 50%",
+						"url": "www.asdacdasd.com"
+					},
+				{
+				"id": "1q31asd234asdadasd",
+				"Category name": "Static Samples",
+				"is category": false,
+				"mediaType": "sequence",
+				"mapping": "partial",
+				"sequence timer": 2,
+				"media data": [
+					{
+						"title": "Sample 1",
+						"url": "www.asdacdasd.com"
+					},{
+						"title": "Sample 2",
+						"url": "www.asdacdasd.com"
+					},		
 				]
 			}
 		]
